@@ -36,7 +36,7 @@ const styles = StyleSheet.create({
     shadowColor: '#6C3BFF',
     shadowOffset: { width: 0, height: 0 },
     shadowOpacity: 0.35,
-    shadowRadius: 1,
+    shadowRadius: 0,
 
     elevation: 10, // Android glow
 
